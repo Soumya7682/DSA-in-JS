@@ -53,19 +53,19 @@
 // }
 // console.log(arr)
 
-let arr = [1, 0, 1, 0]
-let j = 0, i = 0;
-let temp;
-for (let i = 0; i < arr.length; i++) {
-    if (arr[i] == 0) {
-        let temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
-        j++;
-    }
+// let arr = [1, 0, 1, 0]
+// let j = 0, i = 0;
+// let temp;
+// for (let i = 0; i < arr.length; i++) {
+//     if (arr[i] == 0) {
+//         let temp = arr[i];
+//         arr[i] = arr[j];
+//         arr[j] = temp;
+//         j++;
+//     }
 
-}
-console.log(arr);
+// }
+// console.log(arr);
 
 //-ve -Left,+ve-Right
 
