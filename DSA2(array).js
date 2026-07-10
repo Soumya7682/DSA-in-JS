@@ -105,4 +105,37 @@
 // console.log(arr);
 
 
+//Remove Duplicates from array
 
+// let arr=[0,0,1,1,2,3,3,4];
+// let j=1;
+// for(let i=0;i<arr.length-1;i++){
+//     if(arr[i]!=arr[i+1]){
+//         arr[j]=arr[i+1]
+//         j++;
+//     }
+// }
+// arr.length=j
+// console.log(arr);
+
+
+//Merge Two array;
+let arr1=[1,2,3,4,6];
+let arr2=[7,8,9,5];
+let Merge=new Array(arr1.length+arr2.length);
+let i=j=k=0;
+while(i<arr1.length && j<arr2.length){
+    if(arr1[i]<arr2[j]){
+        Merge[k++]=arr1[i++]
+    }else{
+        Merge[k++]=arr2[j++]
+    }
+}
+while(i<arr1.length){
+    Merge[k++]=arr1[i++]
+}
+while(j<arr2.length){
+    Merge[k++]=arr2[j++]
+}
+
+console.log(Merge)
