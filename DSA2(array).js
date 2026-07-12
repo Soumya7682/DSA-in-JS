@@ -141,15 +141,33 @@
 // console.log(Merge)
 
 //Merge two unserted array
-let arr1=[2,5,9,6];
-let arr2=[4,1,7,8,3];
-let merge=new Array(arr1.length+arr2.length);
-let k=0;
-for(let i=0;i<arr1.length;i++){
-    merge[k++]=arr1[i]
+// let arr1=[2,5,9,6];
+// let arr2=[4,1,7,8,3];
+// let merge=new Array(arr1.length+arr2.length);
+// let k=0;
+// for(let i=0;i<arr1.length;i++){
+//     merge[k++]=arr1[i]
+// }
+// for(let j=0;j<arr2.length;j++){
+//     merge[k++]=arr2[j]
+// }
+// console.log(merge.sort())
+
+
+//Best time to buy and sell the stocks
+
+let arr=[7,1,5,3,6,4];
+let profit=0;
+let i=0;
+let min=arr[i];
+let ans=0;
+for(i;i<arr.length;i++){
+    if(arr[i]<min){
+        min=arr[i]
+    }else{
+        ans=arr[i]-min
+       profit=Math.max(profit,ans);
+    }
 }
-for(let j=0;j<arr2.length;j++){
-    merge[k++]=arr2[j]
-}
-console.log(merge.sort())
+console.log(profit)
 
