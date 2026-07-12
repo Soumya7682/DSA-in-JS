@@ -119,23 +119,37 @@
 // console.log(arr);
 
 
-//Merge Two array;
-let arr1=[1,2,3,4,6];
-let arr2=[7,8,9,5];
-let Merge=new Array(arr1.length+arr2.length);
-let i=j=k=0;
-while(i<arr1.length && j<arr2.length){
-    if(arr1[i]<arr2[j]){
-        Merge[k++]=arr1[i++]
-    }else{
-        Merge[k++]=arr2[j++]
-    }
-}
-while(i<arr1.length){
-    Merge[k++]=arr1[i++]
-}
-while(j<arr2.length){
-    Merge[k++]=arr2[j++]
-}
+//Merge Two  Sorted array;
+// let arr1=[1,2,3,4,6];
+// let arr2=[7,8,9,5];
+// let Merge=new Array(arr1.length+arr2.length);
+// let i=j=k=0;
+// while(i<arr1.length && j<arr2.length){
+//     if(arr1[i]<arr2[j]){
+//         Merge[k++]=arr1[i++]
+//     }else{
+//         Merge[k++]=arr2[j++]
+//     }
+// }
+// while(i<arr1.length){
+//     Merge[k++]=arr1[i++]
+// }
+// while(j<arr2.length){
+//     Merge[k++]=arr2[j++]
+// }
 
-console.log(Merge)
+// console.log(Merge)
+
+//Merge two unserted array
+let arr1=[2,5,9,6];
+let arr2=[4,1,7,8,3];
+let merge=new Array(arr1.length+arr2.length);
+let k=0;
+for(let i=0;i<arr1.length;i++){
+    merge[k++]=arr1[i]
+}
+for(let j=0;j<arr2.length;j++){
+    merge[k++]=arr2[j]
+}
+console.log(merge.sort())
+
