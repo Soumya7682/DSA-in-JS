@@ -156,18 +156,50 @@
 
 //Best time to buy and sell the stocks
 
-let arr=[7,1,5,3,6,4];
-let profit=0;
-let i=0;
-let min=arr[i];
-let ans=0;
-for(i;i<arr.length;i++){
-    if(arr[i]<min){
-        min=arr[i]
-    }else{
-        ans=arr[i]-min
-       profit=Math.max(profit,ans);
-    }
-}
-console.log(profit)
+// let arr=[7,1,5,3,6,4];
+// let profit=0;
+// let i=0;
+// let min=arr[i];
+// let ans=0;
+// for(i;i<arr.length;i++){
+//     if(arr[i]<min){
+//         min=arr[i]
+//     }else{
+//         ans=arr[i]-min
+//        profit=Math.max(profit,ans);
+//     }
+// }
+// console.log(profit)
 
+//Sort The Colour
+// let arr=[1,0,2,1,0,2,1];
+// let i=j=0;
+// let k=arr.length-1;
+// while(i<=k){
+//     if(arr[i]==0){
+//              [arr[i], arr[j]] = [arr[j], arr[i]];
+//         i++,j++;
+//     }else if(arr[i]==2){
+//         [arr[i], arr[k]] = [arr[k], arr[i]];
+//         k--;
+//     }
+//     else{
+//         i++
+//     }
+// }
+// console.log(arr)
+
+
+//Maximum Subarray//Kadane's Algorithm
+// let arr=[-2,1,-3,4,-1,2,1,-5,4];
+// let sum=0;
+// let max=0;
+// for(let i=0;i<arr.length;i++){
+//     sum=sum+arr[i];
+//     if(sum>max){
+//         max=sum
+//     }else if(sum<0){
+//         sum=0
+//     }
+// }
+// console.log(max)
