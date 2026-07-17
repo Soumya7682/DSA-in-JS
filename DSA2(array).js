@@ -26,7 +26,7 @@
 //     for(let i=0;i<arr.length;i++){
 //         arr[i]=arr[i+1]
 //     }
-    
+
 //     arr[arr.length-1]=copy
 // }
 // console.log(arr)
@@ -203,3 +203,20 @@
 //     }
 // }
 // console.log(max)
+
+
+// Moore's Voting Algorithm
+let arr = [1, 1, 2, 2, 1, 3, 2, 1, 2, 1];
+let ans = arr[0];
+let count = 1;
+for (let i = 1; i < arr.length; i++) {
+    if (count == 0) {
+        ans = arr[i];
+        count = 1;
+    } else if (ans == arr[i]) {
+        count++;
+    } else {
+        count--;
+    }
+}
+console.log(ans);
