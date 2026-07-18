@@ -206,17 +206,108 @@
 
 
 // Moore's Voting Algorithm
-let arr = [1, 1, 2, 2, 1, 3, 2, 1, 2, 1];
-let ans = arr[0];
-let count = 1;
-for (let i = 1; i < arr.length; i++) {
-    if (count == 0) {
-        ans = arr[i];
-        count = 1;
-    } else if (ans == arr[i]) {
-        count++;
-    } else {
-        count--;
-    }
-}
-console.log(ans);
+// let arr = [1, 1, 2, 2, 1, 3, 2, 1, 2, 1];
+// let ans = arr[0];
+// let count = 1;
+// for (let i = 1; i < arr.length; i++) {
+//     if (count == 0) {
+//         ans = arr[i];
+//         count = 1;
+//     } else if (ans == arr[i]) {
+//         count++;
+//     } else {
+//         count--;
+//     }
+// }
+// console.log(ans);
+
+//Trapping Rain Water
+
+// let height=[4,2,0,3,2,5];
+// let Left=new Array(height.length)
+// let Right=new Array(height.length);
+// let maxLeft=height[0];
+// let maxRight=height[height.length-1];
+// Left[0]=maxLeft
+// Right[Right.length-1]=maxRight;
+
+// for(let i=1;i<height.length;i++){
+//     maxLeft=Math.max(height[i],maxLeft);
+//     Left[i]=maxLeft
+// }
+// for(let i=height.length-2;i>=0;i--){
+//     maxRight=Math.max(height[i],maxRight);
+//     Right[i]=maxRight;
+// }
+// console.log(Left);
+// console.log(Right);
+// let ans=0;
+// for(let i=0;i<height.length;i++){
+// ans+=Math.min(Left[i],Right[i])-height[i];
+// }
+// console.log(ans);
+
+
+// var twoSum = function(nums, target) {
+//     for(let i=0;i<nums.length;i++){
+//         if(nums[i]+nums[i+1]==target){
+//             return [i,i+1];
+//         }
+//     }
+// };
+// console.log(twoSum([2,7,11,15],9))
+
+//Product of array except self
+
+// let arr=[1,2,3,4];
+// let left=new Array(arr.length);
+// let right=new Array(arr.length);
+// let j=0;
+// let k=arr.length-1;
+// right[right.length-1]=arr[0];
+// left[0]=arr[0];
+// let ans=new Array(arr.length)
+// for(let i=1;i<arr.length;i++){
+//     left[i]=left[j]*arr[i-1];
+//     j++;
+// }
+// for(let i=arr.length-2;i>=0;i--){
+//     right[i]=right[k]*arr[i+1];
+//     k--;
+// }
+// for(let i=0;i<left.length;i++){
+//    ans[i]=left[i]*right[i];
+// }
+// console.log(ans)
+
+//Better Appraoch
+// /**
+//  * @param {number[]} nums
+//  * @return {number[]}
+//  */
+// var productExceptSelf = function(nums) {
+//     let left = new Array(nums.length);
+//     let right = new Array(nums.length);
+//     let ans = new Array(nums.length);
+
+//     // Initialize
+//     left[0] = 1;
+//     right[nums.length - 1] = 1;
+
+//     // Left products
+//     for (let i = 1; i < nums.length; i++) {
+//         left[i] = left[i - 1] * nums[i - 1];
+//     }
+
+//     // Right products
+//     for (let i = nums.length - 2; i >= 0; i--) {
+//         right[i] = right[i + 1] * nums[i + 1];
+//     }
+
+//     // Final answer
+//     for (let i = 0; i < nums.length; i++) {
+//         ans[i] = left[i] * right[i];
+//     }
+
+//     return ans;
+// };
