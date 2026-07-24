@@ -83,5 +83,6 @@
 // if(y<=0)return x;
 // return al(y,x%y);
 // }
-// console.log(al(12,18))
+// console.log(al(12,18));
+
 

@@ -227,3 +227,21 @@
 // }
 // console.log(sum)
 
+// var reverse = function(x) {
+//     let rev=0;
+//     let MAX_INT=214748364;
+//     while(x!=0){
+//         let digit=x%10;
+//         x=x<0?Math.ceil(x/10):Math.floor(x/10);
+//         if(rev > MAX_INT ||(rev===MAX_INT && digit > 7)){
+//             return 0;
+//         }
+//          if(rev < -MAX_INT ||(rev=== -MAX_INT && digit < -8)){
+//             return 0;
+//          }
+//         rev=rev*10+digit;
+
+//     }
+//     return rev;
+// };
+// console.log(reverse(456));
