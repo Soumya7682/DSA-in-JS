@@ -204,12 +204,31 @@
 // console.log(sortedSquares([1,2,3,4]))
 
 //Move Zero
-let arr=[0,1,0,3,15];
+// let arr=[0,1,0,3,15];
+// let j=0;
+// for(let i=0;i<arr.length;i++){
+//     if(arr[i]!==0){
+//     [arr[i],arr[j]]=[arr[j],arr[i]];
+//     j++;
+//     }
+// }
+// console.log(arr)
+
+//Sort Colour
+let arr=[1,2,0,1,2,0];
+let i=0;
 let j=0;
-for(let i=0;i<arr.length;i++){
-    if(arr[i]!==0){
-    [arr[i],arr[j]]=[arr[j],arr[i]];
-    j++;
+let k=arr.length-1;
+while(i<=k){
+    if(arr[i]==0){
+        [arr[i],arr[j]]=[arr[j],arr[i]];
+        i++;j++;
+    }else if(arr[i]==2){
+        [arr[i],arr[k]]=[arr[k],arr[i]];
+        k--;
+    }else{
+        i++;
     }
 }
-console.log(arr)
+console.log(arr);
+
