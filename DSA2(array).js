@@ -311,19 +311,38 @@
 
 //     return ans;
 // };
-var canCompleteCircuit = function(gas, cost) {
-    let total=0;
-    let tank=0;
-    let start=0;
-    for(let i=0;i<gas.length;i++){
-        let diff=gas[i]-cost[i];
-        total+=diff;
-        tank+=diff;
-        if(tank<0){
-            start=i+1;
-            tank=0;
+//Gas Station
+// var canCompleteCircuit = function(gas, cost) {
+//     let total=0;
+//     let tank=0;
+//     let start=0;
+//     for(let i=0;i<gas.length;i++){
+//         let diff=gas[i]-cost[i];
+//         total+=diff;
+//         tank+=diff;
+//         if(tank<0){
+//             start=i+1;
+//             tank=0;
+//         }
+//     }
+//     return total >= 0?start:-1;
+// };
+// console.log(canCompleteCircuit([1,2,3,4,5],[3,4,5,1,2]));
+
+//Duplicate from array
+var containsDuplicate = function (nums) {
+    let i = 0;
+    let j = nums.length - 1;
+    while (i <= j) {
+        if (nums[i] !== nums[j]) {
+            j--;
+            i++;
+            return false
+        }
+        else {
+            return true;
         }
     }
-    return total >= 0?start:-1;
+
 };
-console.log(canCompleteCircuit([1,2,3,4,5],[3,4,5,1,2]));
+console.log(containsDuplicate([1, 2, 3, 4]))
