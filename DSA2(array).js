@@ -330,19 +330,31 @@
 // console.log(canCompleteCircuit([1,2,3,4,5],[3,4,5,1,2]));
 
 //Duplicate from array
-var containsDuplicate = function (nums) {
-    let i = 0;
-    let j = nums.length - 1;
-    while (i <= j) {
-        if (nums[i] !== nums[j]) {
-            j--;
-            i++;
-            return false
-        }
-        else {
-            return true;
+// var containsDuplicate = function (nums) {
+//     let i = 0;
+//     let j = nums.length - 1;
+//     while (i <= j) {
+//         if (nums[i] !== nums[j]) {
+//             j--;
+//             i++;
+//             return false
+//         }
+//         else {
+//             return true;
+//         }
+//     }
+
+// };
+// console.log(containsDuplicate([1, 2, 3, 4]))
+
+//Intersection of Two Arrays
+var intersection = function(nums1, nums2) {
+    let set1=new Set(nums1);
+    let result=new Set();
+    for(let num of nums2){
+        if(set1.has(num)){
+            result.add(num);
         }
     }
-
+    return [...result]
 };
-console.log(containsDuplicate([1, 2, 3, 4]))
