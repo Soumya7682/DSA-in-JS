@@ -348,13 +348,35 @@
 // console.log(containsDuplicate([1, 2, 3, 4]))
 
 //Intersection of Two Arrays
-var intersection = function(nums1, nums2) {
-    let set1=new Set(nums1);
-    let result=new Set();
-    for(let num of nums2){
-        if(set1.has(num)){
-            result.add(num);
-        }
-    }
-    return [...result]
-};
+// var intersection = function(nums1, nums2) {
+//     let set1=new Set(nums1);
+//     let result=new Set();
+//     for(let num of nums2){
+//         if(set1.has(num)){
+//             result.add(num);
+//         }
+//     }
+//     return [...result]
+// };
+
+//Third maximum NUmber
+
+let arr=[2,4,5,3,1,6,6,9];
+let max=null;
+let max2=null;
+let max3=null;
+for(let i=0;i<arr.length;i++){
+    if(arr[i]===max||arr[i]===max2||arr[i]===max3){
+        continue;
+    }else if(max===null||arr[i]>max){
+         max3 = max2;
+    max2 = max;
+    max = arr[i];
+    }else if(max2===null||arr[i]>max2){
+        max3 = max2;
+    max2 = arr[i];
+    }else if (max3 === null || arr[i] > max3) {
+    max3 = arr[i];
+}
+}
+console.log(max3);
