@@ -361,22 +361,40 @@
 
 //Third maximum NUmber
 
-let arr=[2,4,5,3,1,6,6,9];
-let max=null;
-let max2=null;
-let max3=null;
-for(let i=0;i<arr.length;i++){
-    if(arr[i]===max||arr[i]===max2||arr[i]===max3){
-        continue;
-    }else if(max===null||arr[i]>max){
-         max3 = max2;
-    max2 = max;
-    max = arr[i];
-    }else if(max2===null||arr[i]>max2){
-        max3 = max2;
-    max2 = arr[i];
-    }else if (max3 === null || arr[i] > max3) {
-    max3 = arr[i];
+// let arr=[2,4,5,3,1,6,6,9];
+// let max=null;
+// let max2=null;
+// let max3=null;
+// for(let i=0;i<arr.length;i++){
+//     if(arr[i]===max||arr[i]===max2||arr[i]===max3){
+//         continue;
+//     }else if(max===null||arr[i]>max){
+//          max3 = max2;
+//     max2 = max;
+//     max = arr[i];
+//     }else if(max2===null||arr[i]>max2){
+//         max3 = max2;
+//     max2 = arr[i];
+//     }else if (max3 === null || arr[i] > max3) {
+//     max3 = arr[i];
+// }
+// }
+// console.log(max3);
+
+//Two sum II
+
+let arr=[1,2,3,4,5,6];
+let target=10;
+let i=0;
+let j=arr.length-1;
+while(i<j){
+    let sum=arr[i]+arr[j];
+    if(sum>target){
+        j--;
+    }else if(sum<target){
+        i++;
+    }else if(sum===target){
+        console.log([i+1,j+1]);
+        break;
+    }
 }
-}
-console.log(max3);
