@@ -383,18 +383,42 @@
 
 //Two sum II
 
-let arr=[1,2,3,4,5,6];
-let target=10;
-let i=0;
-let j=arr.length-1;
-while(i<j){
-    let sum=arr[i]+arr[j];
-    if(sum>target){
-        j--;
-    }else if(sum<target){
-        i++;
-    }else if(sum===target){
-        console.log([i+1,j+1]);
-        break;
+// let arr=[1,2,3,4,5,6];
+// let target=10;
+// let i=0;
+// let j=arr.length-1;
+// while(i<j){
+//     let sum=arr[i]+arr[j];
+//     if(sum>target){
+//         j--;
+//     }else if(sum<target){
+//         i++;
+//     }else if(sum===target){
+//         console.log([i+1,j+1]);
+//         break;
+//     }
+// }
+
+//Minimum Size SubArray;
+let MinSubarray=function(arr,target){
+let MinLenWindow=Infinity;
+let CurSum=0;
+let high=0;
+let low=0;
+while(high<arr.length){
+    CurSum+=arr[high];
+    high++;
+    while(CurSum>=target){
+        let CurrWindowSize=high-low;
+        MinLenWindow=Math.min(MinLenWindow,CurrWindowSize);
+        CurSum-=arr[low];
+        low++;
     }
+
 }
+return MinLenWindow===Infinity?0:MinLenWindow;
+}
+console.log(MinSubarray([2,3,1,2,4,3],7));
+console.log(MinSubarray([1,4,4],4));
+console.log(MinSubarray([1,1,1,1,1,1,1,1,1],11));
+
