@@ -400,25 +400,77 @@
 // }
 
 //Minimum Size SubArray;
-let MinSubarray=function(arr,target){
-let MinLenWindow=Infinity;
-let CurSum=0;
-let high=0;
-let low=0;
-while(high<arr.length){
-    CurSum+=arr[high];
-    high++;
-    while(CurSum>=target){
-        let CurrWindowSize=high-low;
-        MinLenWindow=Math.min(MinLenWindow,CurrWindowSize);
-        CurSum-=arr[low];
-        low++;
-    }
+// let MinSubarray=function(arr,target){
+// let MinLenWindow=Infinity;
+// let CurSum=0;
+// let high=0;
+// let low=0;
+// while(high<arr.length){
+//     CurSum+=arr[high];
+//     high++;
+//     while(CurSum>=target){
+//         let CurrWindowSize=high-low;
+//         MinLenWindow=Math.min(MinLenWindow,CurrWindowSize);
+//         CurSum-=arr[low];
+//         low++;
+//     }
 
-}
-return MinLenWindow===Infinity?0:MinLenWindow;
-}
-console.log(MinSubarray([2,3,1,2,4,3],7));
-console.log(MinSubarray([1,4,4],4));
-console.log(MinSubarray([1,1,1,1,1,1,1,1,1],11));
+// }
+// return MinLenWindow===Infinity?0:MinLenWindow;
+// }
+// console.log(MinSubarray([2,3,1,2,4,3],7));
+// console.log(MinSubarray([1,4,4],4));
+// console.log(MinSubarray([1,1,1,1,1,1,1,1,1],11));
 
+//Combinational Sum
+
+// var combinationSum = function (candidates, target) {
+
+//     let output = []
+//     let n = candidates.length;
+
+//     var recursion = function(idx, arr, sum) {
+
+//         if (sum === target){
+//             output.push([...arr])
+//             return;
+//         }
+//         if (sum < target) {
+//             for (let i=idx; i < n;i++) {
+//                 recursion(i, [...arr, candidates[i]], sum+candidates[i])
+//             }
+//         }
+
+//         return;
+
+//     }
+
+//     recursion(0, [], 0)
+
+//     return output;
+
+// };
+// console.log(combinationSum([1,2,3,4],7))
+// Another Way
+
+// var combinationSum = function(candidates, target) {
+//     candidates.sort((a,b)=>a-b);
+//     let result=[];
+//     let current=[];
+//     function backtrack(st,rem){
+//         if(rem===0){
+//             result.push([...current]);
+//             return;
+//         }
+//         for(let i=st;i<candidates.length;i++){
+//             if(candidates[i]>rem) break;
+//             current.push(candidates[i]);
+
+//             backtrack(i,rem-candidates[i]);
+//             current.pop();
+//         }
+//     }
+//     backtrack(0,target);
+//     return result;
+// };
+// console.log(combinationSum([1,2,3,4],7))
