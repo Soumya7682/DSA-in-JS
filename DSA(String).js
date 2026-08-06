@@ -85,4 +85,18 @@
 // }
 // console.log(al(12,18));
 
+//Length of last Word
 
+var lengthOfLastWord = function(s) {
+    let Str=s.trim();
+    let count=0;
+    for(let i=Str.length-1;i>=0;i--){
+        if(Str.charAt(i)!==" "){
+            count++;
+        }else{
+            break;
+        }
+    }
+    return count;
+};
+console.log(lengthOfLastWord("Soumya ranjan Singh"))
