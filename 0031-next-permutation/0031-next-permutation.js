@@ -4,10 +4,12 @@
  */
 var nextPermutation = function(nums) {
     let n=nums.length;
+    //find 1st decreasing ele
     let i=n-2;
     while(i>=0&& nums[i]>= nums[i+1]){
         i--;
     }
+    //Find greater than nums[i]
     if(i>=0){
         let j=n-1;
         while(nums[j]<=nums[i]){
@@ -16,7 +18,7 @@ var nextPermutation = function(nums) {
         [nums[i],nums[j]]=[nums[j],nums[i]];
     }
 
-
+//Reverse remainpart
     let left=i+1;
     let right=n-1;
     while(left<right){
