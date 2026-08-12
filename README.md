@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Soumya7682/DSA-in-JS/tree/master/0031-next-permutation) |
 | [1528-shuffle-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/1528-shuffle-string) |
+| [3731-find-missing-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Soumya7682/DSA-in-JS/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
