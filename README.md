@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Soumya7682/DSA-in-JS/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Soumya7682/DSA-in-JS/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/1528-shuffle-string) |
@@ -38,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Soumya7682/DSA-in-JS/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/1512-number-of-good-pairs) |
 | [3731-find-missing-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Soumya7682/DSA-in-JS/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
