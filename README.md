@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/0136-single-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Soumya7682/DSA-in-JS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/1528-shuffle-string) |
