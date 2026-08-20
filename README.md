@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/1528-shuffle-string) |
 | [1929-concatenation-of-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3731-find-missing-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
