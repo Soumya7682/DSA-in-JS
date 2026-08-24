@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/1528-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/Soumya7682/DSA-in-JS/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3731-find-missing-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/3731-find-missing-elements) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Soumya7682/DSA-in-JS/tree/master/0054-spiral-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Soumya7682/DSA-in-JS/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Quicksort
 |  |
