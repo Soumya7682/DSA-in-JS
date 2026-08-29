@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Soumya7682/DSA-in-JS/tree/master/0844-backspace-string-compare) |
 | [1528-shuffle-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/1528-shuffle-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Soumya7682/DSA-in-JS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String Matching
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Soumya7682/DSA-in-JS/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Soumya7682/DSA-in-JS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Soumya7682/DSA-in-JS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/3731-find-missing-elements) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Soumya7682/DSA-in-JS/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Soumya7682/DSA-in-JS/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Soumya7682/DSA-in-JS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Math
 |  |
