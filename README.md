@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Soumya7682/DSA-in-JS/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Soumya7682/DSA-in-JS/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Soumya7682/DSA-in-JS/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Soumya7682/DSA-in-JS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Soumya7682/DSA-in-JS/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Soumya7682/DSA-in-JS/tree/master/0374-guess-number-higher-or-lower) |
 ## Counting Sort
