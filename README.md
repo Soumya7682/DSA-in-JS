@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Soumya7682/DSA-in-JS/tree/master/0162-find-peak-element) |
+| [0697-degree-of-an-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0697-degree-of-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Soumya7682/DSA-in-JS/tree/master/1389-create-target-array-in-the-given-order) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Soumya7682/DSA-in-JS/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Soumya7682/DSA-in-JS/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0567-permutation-in-string) |
+| [0697-degree-of-an-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0697-degree-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/1512-number-of-good-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Soumya7682/DSA-in-JS/tree/master/3718-smallest-missing-multiple-of-k) |
