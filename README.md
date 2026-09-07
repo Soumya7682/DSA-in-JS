@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Soumya7682/DSA-in-JS/tree/master/0162-find-peak-element) |
+| [0658-find-k-closest-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/0658-find-k-closest-elements) |
 | [0697-degree-of-an-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0697-degree-of-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Soumya7682/DSA-in-JS/tree/master/0031-next-permutation) |
 | [0541-reverse-string-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Soumya7682/DSA-in-JS/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Soumya7682/DSA-in-JS/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Soumya7682/DSA-in-JS/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Soumya7682/DSA-in-JS/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/0658-find-k-closest-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Soumya7682/DSA-in-JS/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Soumya7682/DSA-in-JS/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Soumya7682/DSA-in-JS/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Counting Sort
 |  |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/0658-find-k-closest-elements) |
 ## Ternary Search
 |  |
 | ------- |
@@ -159,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Soumya7682/DSA-in-JS/tree/master/0055-jump-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
