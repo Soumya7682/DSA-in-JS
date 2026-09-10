@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Soumya7682/DSA-in-JS/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Soumya7682/DSA-in-JS/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Soumya7682/DSA-in-JS/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Soumya7682/DSA-in-JS/tree/master/0054-spiral-matrix) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/0658-find-k-closest-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
