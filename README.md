@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soumya7682/DSA-in-JS/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Soumya7682/DSA-in-JS/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Soumya7682/DSA-in-JS/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Soumya7682/DSA-in-JS/tree/master/0242-valid-anagram) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soumya7682/DSA-in-JS/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Soumya7682/DSA-in-JS/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Soumya7682/DSA-in-JS/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Soumya7682/DSA-in-JS/tree/master/0031-next-permutation) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soumya7682/DSA-in-JS/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Soumya7682/DSA-in-JS/tree/master/0055-jump-game) |
 ## Greedy
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0040-combination-sum-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soumya7682/DSA-in-JS/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
