@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Soumya7682/DSA-in-JS/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Soumya7682/DSA-in-JS/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Soumya7682/DSA-in-JS/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Soumya7682/DSA-in-JS/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Soumya7682/DSA-in-JS/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0567-permutation-in-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Soumya7682/DSA-in-JS/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Soumya7682/DSA-in-JS/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Soumya7682/DSA-in-JS/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Soumya7682/DSA-in-JS/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1929-concatenation-of-array) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Soumya7682/DSA-in-JS/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Soumya7682/DSA-in-JS/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Soumya7682/DSA-in-JS/tree/master/0067-add-binary) |
 | [1512-number-of-good-pairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Soumya7682/DSA-in-JS/tree/master/2235-add-two-integers) |
 ## Counting
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Soumya7682/DSA-in-JS/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Soumya7682/DSA-in-JS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/0136-single-number) |
 ## Binary Search
 |  |
