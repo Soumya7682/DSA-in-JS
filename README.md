@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Soumya7682/DSA-in-JS/tree/master/0162-find-peak-element) |
+| [0525-contiguous-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0525-contiguous-array) |
 | [0658-find-k-closest-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Soumya7682/DSA-in-JS/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0697-degree-of-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Soumya7682/DSA-in-JS/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Soumya7682/DSA-in-JS/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Soumya7682/DSA-in-JS/tree/master/0242-valid-anagram) |
+| [0525-contiguous-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0697-degree-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0525-contiguous-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
