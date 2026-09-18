@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Soumya7682/DSA-in-JS/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Soumya7682/DSA-in-JS/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Soumya7682/DSA-in-JS/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/0070-climbing-stairs) |
 | [1512-number-of-good-pairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Soumya7682/DSA-in-JS/tree/master/2235-add-two-integers) |
 ## Counting
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Soumya7682/DSA-in-JS/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Soumya7682/DSA-in-JS/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soumya7682/DSA-in-JS/tree/master/0005-longest-palindromic-substring) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
