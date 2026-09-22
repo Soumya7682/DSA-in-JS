@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Soumya7682/DSA-in-JS/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Soumya7682/DSA-in-JS/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Soumya7682/DSA-in-JS/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0796-rotate-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Soumya7682/DSA-in-JS/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Soumya7682/DSA-in-JS/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Soumya7682/DSA-in-JS/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0697-degree-of-an-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
