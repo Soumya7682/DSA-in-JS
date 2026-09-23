@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Soumya7682/DSA-in-JS/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Soumya7682/DSA-in-JS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0394-decode-string) |
 | [0541-reverse-string-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0796-rotate-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Soumya7682/DSA-in-JS/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Soumya7682/DSA-in-JS/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Soumya7682/DSA-in-JS/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
