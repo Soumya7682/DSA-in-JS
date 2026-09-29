@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Soumya7682/DSA-in-JS/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Soumya7682/DSA-in-JS/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Soumya7682/DSA-in-JS/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Soumya7682/DSA-in-JS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/0070-climbing-stairs) |
 | [1512-number-of-good-pairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Soumya7682/DSA-in-JS/tree/master/2235-add-two-integers) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Soumya7682/DSA-in-JS/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Soumya7682/DSA-in-JS/tree/master/0162-find-peak-element) |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3597-partition-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/3597-partition-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Soumya7682/DSA-in-JS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
