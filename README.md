@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Soumya7682/DSA-in-JS/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0394-decode-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0796-rotate-string) |
