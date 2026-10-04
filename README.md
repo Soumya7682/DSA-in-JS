@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Soumya7682/DSA-in-JS/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0434-number-of-segments-in-a-string) |
+| [0481-magical-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0567-permutation-in-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Soumya7682/DSA-in-JS/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Soumya7682/DSA-in-JS/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0088-merge-sorted-array) |
+| [0481-magical-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Soumya7682/DSA-in-JS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0567-permutation-in-string) |
