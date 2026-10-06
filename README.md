@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Soumya7682/DSA-in-JS/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0697-degree-of-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1122-relative-sort-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Soumya7682/DSA-in-JS/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Soumya7682/DSA-in-JS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0697-degree-of-an-array) |
 | [0859-buddy-strings](https://github.com/Soumya7682/DSA-in-JS/tree/master/0859-buddy-strings) |
+| [1122-relative-sort-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/1512-number-of-good-pairs) |
 | [3597-partition-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/3597-partition-string) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Soumya7682/DSA-in-JS/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Soumya7682/DSA-in-JS/tree/master/0389-find-the-difference) |
 | [0658-find-k-closest-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/0658-find-k-closest-elements) |
+| [1122-relative-sort-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Soumya7682/DSA-in-JS/tree/master/0056-merge-intervals) |
+| [1122-relative-sort-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1122-relative-sort-array) |
 ## Interactive
 |  |
 | ------- |
@@ -244,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Soumya7682/DSA-in-JS/tree/master/0069-sqrtx) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
