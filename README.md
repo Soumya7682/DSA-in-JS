@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Soumya7682/DSA-in-JS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Soumya7682/DSA-in-JS/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Soumya7682/DSA-in-JS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Soumya7682/DSA-in-JS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Soumya7682/DSA-in-JS/tree/master/3731-find-missing-elements) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Soumya7682/DSA-in-JS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Soumya7682/DSA-in-JS/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3597-partition-string](https://github.com/Soumya7682/DSA-in-JS/tree/master/3597-partition-string) |
 ## Math
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0525-contiguous-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1480-running-sum-of-1d-array) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Soumya7682/DSA-in-JS/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
