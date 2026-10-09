@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Soumya7682/DSA-in-JS/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0697-degree-of-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0932-beautiful-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0932-beautiful-array) |
 | [1122-relative-sort-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya7682/DSA-in-JS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Soumya7682/DSA-in-JS/tree/master/1389-create-target-array-in-the-given-order) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Soumya7682/DSA-in-JS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Soumya7682/DSA-in-JS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/0070-climbing-stairs) |
+| [0932-beautiful-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0932-beautiful-array) |
 | [1512-number-of-good-pairs](https://github.com/Soumya7682/DSA-in-JS/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Soumya7682/DSA-in-JS/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Soumya7682/DSA-in-JS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/1122-relative-sort-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0932-beautiful-array](https://github.com/Soumya7682/DSA-in-JS/tree/master/0932-beautiful-array) |
 <!---LeetCode Topics End-->
